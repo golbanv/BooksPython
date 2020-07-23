@@ -46,4 +46,4 @@ def update(id,title,author,year,isbn):
 
 connect()
 
-
+# insert("Lol","Lililand",2016, 2108393893)
